@@ -14,27 +14,27 @@
 
 #### [图片](https://github.com/player1992/Bitmap)	
 
-#### 数据库
-
 #### [IPC](https://github.com/player1992/IPC)
 
 #### [线程池](https://github.com/player1992/Thread)
+
+#### [JNI](https://github.com/player1992/JNI)
 
 
 
 ### <div align=center>Running</div>
 
-#### 	JNI
-
----
+#### Kotlin
 
 ### <div align=center>Waiting</div>
 
 
 
+#### 插件化
+
+#### 数据库
 
 
-#### 	插件化
 
 
 
