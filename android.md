@@ -1,4 +1,4 @@
-### <div align=center>Done</div>>
+### <div align=center>Done</div>
 
 #### [Component四大组件](https://github.com/player1992/Component)
 
@@ -20,15 +20,17 @@
 
 #### [线程池](https://github.com/player1992/Thread)
 
----
 
-### Running
+
+### <div align=center>Running</div>
 
 #### 	JNI
 
 ---
 
-### Waiting
+### <div align=center>Waiting</div>
+
+
 
 
 
