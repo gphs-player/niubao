@@ -1,4 +1,4 @@
-### <div align=center>Done</div>
+### Android图谱
 
 #### [Component四大组件](https://github.com/player1992/Component)
 
@@ -22,11 +22,7 @@
 
 
 
-### <div align=center>Running</div>
-
 #### Kotlin
-
-### <div align=center>Waiting</div>
 
 
 

@@ -1,5 +1,0 @@
-# IT
-
-
-#### [Android](./android.md)
-
