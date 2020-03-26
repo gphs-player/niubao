@@ -16,11 +16,7 @@
 
 #### [IPC](https://github.com/player1992/IPC)
 
-#### [线程池](https://github.com/player1992/Thread)
-
 #### [JNI](https://github.com/player1992/JNI)
-
-
 
 #### Kotlin
 
